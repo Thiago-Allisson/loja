@@ -1,0 +1,6 @@
+{
+  "name": "AURA STUDIO - Loja Virtual de Roupas",
+  "description": "Loja virtual completa de roupas com catálogo de produtos, filtros, sacola de compras e checkout com PIX, Cartão e Boleto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
